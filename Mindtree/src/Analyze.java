@@ -59,6 +59,7 @@ public class Analyze {
 		int value= compareTo(str1,str2);
 		
 		System.out.println("Value without inbuilt function :"+value);
+		System.out.println("Push success!");
 		s.close();
 	}
 
